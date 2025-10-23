@@ -1,0 +1,47 @@
+@charset "utf-8";
+/* CSS Document */
+
+  
+        body {
+            font-family: 'artifika', sans-serif;
+            background-color: #A796FF;
+            color: #333333;
+            color: #4A0DBC;
+            margin: 40px;
+        }
+
+        h1 {font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size:70px;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+            
+            color: #4A0DBC;
+            background-color: #A796FF;
+            padding: 15px;
+        }
+
+        p {
+  font-family: "Bitcount Grid Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0;
+
+            background-color: #9070E0;
+            color: #0B0B0B;
+            padding: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #4A0DBC;
+		
+        }
+   
